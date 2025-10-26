@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Woraphop
 
-<!--
-**pobwrp/pobwrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Engineer with over 6 years of experience in designing, building, and optimizing data platforms. My work focuses on scalable data pipelines, real-time data processing, and cloud-based data architecture. I have hands-on experience supporting enterprise banking systems, ensuring reliability, security, and performance at scale.
 
-Here are some ideas to get you started:
+### 🔧 Technical Expertise
+- **Data Engineering:** Data Modeling, ETL/ELT, Workflow Orchestration
+- **Big Data & Processing:** Azure Databricks, Apache Spark, Apache Kafka
+- **Cloud & Platform:** Azure Data Factory, Azure Storage, Azure Synapse
+- **Programming:** Python, SQL, Bash
+- **DevOps / CI/CD:** GitLab CI, Azure DevOps, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Background
+I have contributed to data platforms and analytics solutions in the banking and financial domain — improving data reliability, streamlining data movement across systems, and enabling data-driven decision making.
+
+### 🌍 Location
+Based in Bangkok, Thailand
+
+### 📫 Contact & Portfolio
+- LinkedIn: https://www.linkedin.com/in/woraphopktn
