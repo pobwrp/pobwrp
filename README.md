@@ -1,4 +1,4 @@
-# Hi 👋 I'm Woraphop
+# Hi 👋 I'm Woraphop Kootranunt (Pob)
 
 I am a Data Engineer with over 6 years of experience in designing, building, and optimizing data platforms. My work focuses on scalable data pipelines, real-time data processing, and cloud-based data architecture. I have hands-on experience supporting enterprise banking systems, ensuring reliability, security, and performance at scale.
 
