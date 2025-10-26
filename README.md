@@ -15,5 +15,8 @@ I have contributed to data platforms and analytics solutions in the banking and 
 ### 🌍 Location
 Based in Bangkok, Thailand
 
-### 📫 Contact & Portfolio
-- LinkedIn: https://www.linkedin.com/in/woraphopktn
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/woraphopktn/)  
+[Email](mailto:woraphop.kootranunt@gmail.com)
+
+
